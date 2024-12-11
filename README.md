@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Ran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sen-Ran&count_private=true&show_icons=true&hide=stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frankwoodly&layout=compact)](https://github.com/Frankwoodly/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entropy233&layout=compact)](https://github.com/entropy233/github-readme-stats)
 
