@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 ![Ran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sen-Ran&count_private=true&show_icons=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sen-Ran&size_weight=0.5&count_weight=0.5&layout=compact)
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sen-Ran" /> </div>
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sen-Ran&theme=vue)
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sen-Ran" /> </div>
