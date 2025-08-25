@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sen-Ran" /> </div>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Sen-Ran&theme=xcode" /> </div>
 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 
