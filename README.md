@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div align="center"> <img src="https://metrics.lecoq.io/Sen-Ran?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 -->
 
-<div align="center"> <img src="https://metrics.lecoq.io/Sen-Ran?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ![Ran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sen-Ran&count_private=true&show_icons=true&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sen-Ran&layout=compact)](https://github.com/Sen-Ran/github-readme-stats)
